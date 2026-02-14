@@ -72,18 +72,18 @@ java Main
 ## Payment Strategies Implemented
 * UPI Payment
 * Credit Card Payment
-(Easily extendable)
+- (Easily extendable)
 
 ---
 
 ## Learning Objectives
 # This project was built to strengthen:
 
-* Java & OOP fundamentals
-* Backend system thinking
-* Business logic modelling
-* Clean code practices
-* Industry-style architecture
+* Java & OOP fundamentals ✔
+* Backend system thinking ✔
+* Business logic modelling ✔
+* Clean code practices ✔
+* Industry-style architecture ✔
 
 ---
 
